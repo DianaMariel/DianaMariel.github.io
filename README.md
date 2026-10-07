@@ -1,16 +1,26 @@
-# Introducción a GitHub
+#Portafolio Profesional | Diana Mariel
 
-![estrellas del repo](https://img.shields.io/github/stars/DianaMariel/DianaMariel.github.io?style=social
-)
+¡Bienvenid@ a mi sitio web personal y portafolio técnico, alojado en **GitHub Pages**!
 
-Saca las badge en shields.io
+##¿Por qué creé este repositorio?
 
-En este repositorio vas a encontrar los ejemplos desarrollados en el curso de introduccion a GitHub
+Este espacio nace con el propósito de centralizar, documentar y presentar de forma pública mis proyectos, evolución técnica y trayectoria profesional como **Ingeniera de Software**.
 
-el archivo readme debe responder a que es el proyecto, porque es util y como usarlo
+El objetivo de esta página es:
+- **Exhibir proyectos reales:** Casos prácticos de modelado de datos, consultas SQL, desarrollo de herramientas interactivas y proyectos aplicados.
+- **Documentar mi ruta de aprendizaje:** Compartir mi camino profundizando en ciberseguridad, análisis de datos y desarrollo backend.
+- **Conectar profesionalmente:** Ofrecer un punto de contacto centralizado para networking, colaboraciones técnicas y oportunidades laborales.
 
-Debe tener el titulo, descripción, cómo instalar y ejecutar el proyecto, como utilizarlo 
+---
 
-[Busca en google](www.google.com)
-## Titulo 2
-### Titulo 3
+##Tecnologías del Sitio
+
+- **Despliegue / Hosting:** GitHub Pages
+- **Estructura y diseño:** HTML5 / CSS3 / JavaScript (o librerías/frameworks frontend a futuro)
+
+---
+
+##Visita el sitio
+
+Puedes explorar la versión en vivo aquí:  
+**[dianamariel.github.io](https://dianamariel.github.io)**
